@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<< “Hello, World”<<< HEAD
 Redirections and filters
 =======
 # alx-system_engineering-devops
